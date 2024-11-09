@@ -1,4 +1,5 @@
-xploratory Data Analysis (EDA) on Disease Dataset
+Exploratory Data Analysis (EDA) on Disease Dataset
+
 This EDA aims to provide a thorough examination of a dataset containing information about disease prevalence across various districts and areas, including fields such as disease type, district, area, disease rate, and percentage. The analysis focuses on understanding the distribution, relationships, and potential insights within the data.
 
 1. Data Overview and Structure
