@@ -1,0 +1,51 @@
+Disease,District,Area,Disease Rate,Percentage
+Brain Tumor,North West Delhi,Model Town,10.5,50.2
+Cancer,South East Delhi,Kalkaji,8.2,62.1
+Liver Problem,Central Delhi,Connaught Place,12.1,75.5
+Cardiovascular,West Delhi,Rajouri Garden,9.5,40.8
+Kidney Disease,North East Delhi,Gandhi Nagar,11.8,58.9
+Brain Tumor,South West Delhi,Najafgarh,10.1,52.3
+Cancer,East Delhi,Vishwas Nagar,8.5,65.2
+Liver Problem,Shahdara,Seelampur,12.8,78.2
+Cardiovascular,North West Delhi,Mundka,9.2,41.9
+Kidney Disease,South East Delhi,Badarpur,11.5,60.5
+Brain Tumor,Central Delhi,Chandni Chowk,10.8,54.1
+Cancer,West Delhi,Madipur,8.8,63.9
+Liver Problem,South West Delhi,Dwarka,13.1,79.5
+Cardiovascular,East Delhi,Kashmere Gate,9.8,43.2
+Kidney Disease,North East Delhi,Laxmi Nagar,12.2,61.1
+Brain Tumor,Shahdara,Seelampur,11.1,56.4
+Cancer,North West Delhi,Rohini,9.1,46.8
+Liver Problem,South East Delhi,Kalkaji,13.5,80.3
+Cardiovascular,Central Delhi,Connaught Place,10.2,49.5
+Kidney Disease,West Delhi,Rajouri Garden,12.5,62.9
+Brain Tumor,East Delhi,Vishwas Nagar,10.3,51.4
+Cancer,North East Delhi,Gandhi Nagar,8.9,66.5
+Liver Problem,North West Delhi,Mundka,14.1,82.9
+Cardiovascular,South West Delhi,Najafgarh,9.4,45.1
+Kidney Disease,South West Delhi,Dwarka,12.9,64.3
+Brain Tumor,Central Delhi,Chandni Chowk,10.9,55.1
+Cancer,Shahdara,Seelampur,9.3,47.9
+Liver Problem,East Delhi,Kashmere Gate,13.8,81.5
+Cardiovascular,North East Delhi,Laxmi Nagar,10.6,52.6
+Kidney Disease,North West Delhi,Rohini,13.2,65.9
+Brain Tumor,South East Delhi,Kalkaji,11.4,57.3
+Cancer,West Delhi,Madipur,9.6,48.4
+Liver Problem,Central Delhi,Connaught Place,14.4,83.9
+Cardiovascular,Shahdara,Seelampur,10.9,54.2
+Kidney Disease,North East Delhi,Gandhi Nagar,13.6,67.7
+Brain Tumor,East Delhi,Vishwas Nagar,11.6,58.5
+Cancer,South West Delhi,Najafgarh,9.9,50.1
+Liver Problem,North West Delhi,Mundka,15.1,85.6
+Cardiovascular,South East Delhi,Badarpur,11.2,56.1
+Kidney Disease,West Delhi,Rajouri Garden,14.2,70.9
+Liver Problem,South Delhi,Hauz Khas,16.3,89.1
+Cardiovascular,North Delhi,Karol Bagh,12.1,61.5
+Kidney Disease,East Delhi,Vishwas Nagar,14.8,73.9
+Brain Tumor,Central Delhi,Chandni Chowk,12.9,64.7
+Cancer,Shahdara,Seelampur,10.1,51.8
+Liver Problem,North West Delhi,Rohini,17.2,91.1
+Cardiovascular,South East Delhi,Kalkaji,13.5,67.5
+Kidney Disease,West Delhi,Madipur,15.5,77.9
+Brain Tumor,North East Delhi,Gandhi Nagar,13.9,69.5
+Cancer,East Delhi,Kashmere Gate,11.9,60.2
